@@ -11,3 +11,5 @@ It is very convenient to use with the on-board
 - piezo buzzer.
 
 Additionally there is an RFM95 LoRa modul + Atmega 328P + SMA connector for experimental LoRa-RC.
+
+![3D model](3D.png)
