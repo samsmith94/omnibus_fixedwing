@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name RFM95W-868S2)(type Legacy)(uri ${KIPRJMOD}/Symbols&Footprints/RFM95W-868S2.mod)(options "")(descr ""))
+  (lib (name PS1240P02BT)(type Legacy)(uri ${KIPRJMOD}/Symbols&Footprints/PS1240P02BT.mod)(options "")(descr ""))
+  (lib (name CMT-4023S-SMT-TR)(type Legacy)(uri ${KIPRJMOD}/Symbols&Footprints/CMT-4023S-SMT-TR.mod)(options "")(descr ""))
+  (lib (name PTS526_SK08_SMTR2_LFS)(type Legacy)(uri ${KIPRJMOD}/Symbols&Footprints/PTS526_SK08_SMTR2_LFS.mod)(options "")(descr ""))
+  (lib (name SM03B-SRSS-TB_LF__SN_)(type Legacy)(uri ${KIPRJMOD}/Symbols&Footprints/SM03B-SRSS-TB_LF__SN_.mod)(options "")(descr ""))
+  (lib (name SM06B-SRSS-TB_LF__SN_)(type Legacy)(uri ${KIPRJMOD}/Symbols&Footprints/SM06B-SRSS-TB_LF__SN_.mod)(options "")(descr ""))
+)

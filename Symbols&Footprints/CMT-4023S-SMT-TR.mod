@@ -1,0 +1,37 @@
+PCBNEW-LibModule-V1  2019-12-19 20:11:41
+# encoding utf-8
+Units mm
+$INDEX
+CMT-4023S
+$EndINDEX
+$MODULE CMT-4023S
+Po 0 0 0 15 5dfbd97d 00000000 ~~
+Li CMT-4023S
+Cd CMT-4023S
+Kw Loudspeaker or Buzzer
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 -0.33 -0.046 1.27 1.27 0 0.254 N V 21 N "LS**"
+T1 -0.33 -0.046 1.27 1.27 0 0.254 N I 21 N "CMT-4023S"
+DS -2 -2 2 -2 0.2 24
+DS 2 -2 2 2 0.2 24
+DS 2 2 -2 2 0.2 24
+DS -2 2 -2 -2 0.2 24
+DS -2 -2 2 -2 0.2 21
+DS 2 2 -2 2 0.2 21
+$PAD
+Po -2 0
+Sh "1" R 2 2.4 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2 0
+Sh "2" R 2 2.4 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE CMT-4023S
+$EndLIBRARY
